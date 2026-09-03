@@ -1,0 +1,8 @@
+Flask==3.0.3
+Flask-Cors==4.0.1
+openai-whisper==20231117
+mutagen==1.47.0
+
+# Whisper requires ffmpeg installed on the system:
+# Ubuntu/Debian: sudo apt install ffmpeg
+# macOS: brew install ffmpeg
