@@ -21,12 +21,6 @@ Tech Stack: Python, OpenAI Whisper, Flask, React.js, MediaRecorder API
  word-boundary regex matching, and computes speaking pace from word count and audio duration
 4. A confidence score is derived by penalizing high filler rate, excessive hedging, and answers that are too short
 
-## Screenshots
-
-Add your own screenshots here once you run the app locally - for example,
-the main dashboard view and one key interaction (e.g. a completed action or
-a filled-in result). Save images under an `images/` folder and reference them
-like: `![Dashboard](images/dashboard.png)`
 
 ## Getting Started
 
